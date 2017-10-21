@@ -1,4 +1,4 @@
-package com.zperkowski.instagramtv;
+package com.zperkowski.intv;
 
 import android.app.Activity;
 import android.os.Bundle;

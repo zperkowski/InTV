@@ -1,4 +1,4 @@
-package com.zperkowski.instagramtv;
+package com.zperkowski.intv;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

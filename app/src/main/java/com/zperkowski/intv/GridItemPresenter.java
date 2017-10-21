@@ -1,4 +1,4 @@
-package com.zperkowski.instagramtv;
+package com.zperkowski.intv;
 
 import android.graphics.Color;
 import android.support.v17.leanback.widget.Presenter;
